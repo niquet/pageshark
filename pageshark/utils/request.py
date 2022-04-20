@@ -11,17 +11,17 @@ class IRequest(metaclass=abc.ABCMeta):
 class Request(IRequest):
     pass
 
-class GoogleRequest(IRequest):
-    pass
-
 class BingRequest(IRequest):
     pass
 
 class DuckDuckGoRequest(IRequest):
     pass
 
-class YahooRequest(IRequest):
+class GoogleRequest(IRequest):
     pass
 
 class StartPageRequest(IRequest):
+    pass
+
+class YahooRequest(IRequest):
     pass

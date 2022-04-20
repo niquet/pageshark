@@ -1,5 +1,6 @@
-from utils.pagination import Pagination
-from utils.request import Request
+from utils import connection
+from utils import pagination
+from utils import request
 
 def main():
     pass

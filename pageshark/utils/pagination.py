@@ -11,7 +11,7 @@ class IPagination(metaclass=abc.ABCMeta):
 class Pagination(IPagination):
     pass
 
-class MonsterPagination(IPagination):
+class DicePagination(IPagination):
     pass
 
 class IndeedPagination(IPagination):
@@ -20,5 +20,5 @@ class IndeedPagination(IPagination):
 class LinkedInPagination(IPagination):
     pass
 
-class DicePagination(IPagination):
+class MonsterPagination(IPagination):
     pass
