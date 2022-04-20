@@ -4,7 +4,9 @@
 
         },
         "startUrls": [
-            
+            "https://www.monster.com/jobs/search?q=Software+Engineer&where=&page=5&so=m.s.sh",
+            "https://www.monster.com/jobs/search?q=Developer&where=&page=1&so=m.s.sh",
+            "https://www.monster.com/jobs/search?q=Data+Engineer&where=&page=1&so=m.s.sh"
         ]
     },
     "production": {
